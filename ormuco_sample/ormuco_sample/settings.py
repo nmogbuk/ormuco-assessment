@@ -25,7 +25,7 @@ SECRET_KEY = 'q8tr8y7*08%x+o4yj^8iethntjgska_l=luuht$^-(_@h(t0m6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test.fmtlabz.tech']
 
 SITE_ID = 1
 
