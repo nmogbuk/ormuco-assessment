@@ -39,7 +39,7 @@ pyOpenSSL==17.5.0
 pyserial==3.4
 pyxdg==0.25
 PyYAML==3.12
-requests==2.18.4
+requests==2.20.0
 rsa==4.0
 SecretStorage==2.3.1
 service-identity==16.0.0
