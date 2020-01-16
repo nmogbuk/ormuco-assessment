@@ -37,7 +37,7 @@ pykerberos==1.1.14
 pyliblzma==0.5.3
 pyOpenSSL==17.5.0
 pyserial==3.4
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==3.12
 requests==2.18.4
 rsa==4.0
